@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+
+  .header-link {
+    padding: 10px;
+  }
+}

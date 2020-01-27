@@ -1,0 +1,12 @@
+.post-link {
+  flex: 0 0 100%;
+
+  @media (min-width: 420px) {
+    flex: 0 0 33.33%;
+    margin: 20px auto;
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+}

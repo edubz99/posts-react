@@ -1,0 +1,12 @@
+.posts-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  .inner-wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}
